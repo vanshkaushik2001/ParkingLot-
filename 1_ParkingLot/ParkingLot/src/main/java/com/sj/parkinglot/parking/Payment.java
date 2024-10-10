@@ -1,4 +1,4 @@
-package com.sj.parkinglot.parking;
+package com.parkinglot.parking;
 
 import lombok.Getter;
 
