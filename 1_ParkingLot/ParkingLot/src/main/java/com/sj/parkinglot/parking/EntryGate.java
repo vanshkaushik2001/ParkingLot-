@@ -1,6 +1,6 @@
 package com.parkinglot.parking;
 
-import com.sj.parkinglot.vehicle.Vehicle;
+import com.parkinglot.vehicle.Vehicle;
 import lombok.Getter;
 
 import java.time.LocalDateTime;
