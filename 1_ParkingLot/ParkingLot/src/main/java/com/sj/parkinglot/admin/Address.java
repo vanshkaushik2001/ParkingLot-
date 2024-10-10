@@ -1,4 +1,4 @@
-package com.sj.parkinglot.admin;
+package com.parkinglot.admin;
 
 import lombok.Getter;
 import lombok.Setter;
