@@ -1,10 +1,10 @@
-package com.sj.parkinglot;
+package com.parkinglot;
 
-import com.sj.parkinglot.admin.Address;
-import com.sj.parkinglot.admin.Admin;
-import com.sj.parkinglot.admin.ContactInfo;
-import com.sj.parkinglot.parking.*;
-import com.sj.parkinglot.vehicle.*;
+import com.parkinglot.admin.Address;
+import com.parkinglot.admin.Admin;
+import com.parkinglot.admin.ContactInfo;
+import com.parkinglot.parking.*;
+import com.parkinglot.vehicle.*;
 
 public class ParkingLotApplication {
     public static void main(String[] args){
