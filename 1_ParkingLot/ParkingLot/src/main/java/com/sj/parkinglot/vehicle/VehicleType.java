@@ -1,4 +1,4 @@
-package com.sj.parkinglot.vehicle;
+package com.parkinglot.vehicle;
 
 public enum VehicleType {
     CAR,
