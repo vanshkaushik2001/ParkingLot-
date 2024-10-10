@@ -1,7 +1,7 @@
-package com.sj.parkinglot.parking;
+package com.parkinglot.parking;
 
-import com.sj.parkinglot.vehicle.Vehicle;
-import com.sj.parkinglot.vehicle.VehicleType;
+import com.parkinglot.vehicle.Vehicle;
+import com.parkinglot.vehicle.VehicleType;
 import lombok.Getter;
 import lombok.Setter;
 
