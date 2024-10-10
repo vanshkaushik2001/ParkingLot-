@@ -1,4 +1,4 @@
-package com.sj.parkinglot.parking;
+package com.parkinglot.parking;
 
 import com.parkinglot.admin.Address;
 import com.parkinglot.vehicle.Vehicle;
